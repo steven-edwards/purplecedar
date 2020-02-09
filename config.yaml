@@ -11,8 +11,8 @@ params:
   footer:
     content: "&copy; All rights reserved."
     links:
-    - text: Made with Stackbit
-      url: https://www.stackbit.com
+    - text: 'made by #esc'
+      url: https://eaglesoftware.tech
       new_window: true
     has_social: true
 disableKinds:
