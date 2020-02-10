@@ -5,7 +5,7 @@ excerpt = "are you achieving your capacity in all that you do or are you finding
 layout = "post"
 subtitle = ""
 thumb_img_path = "/images/there-are-not-enough-hours-in-the-day-quote-1.jpg"
-title = "There's just not enough hours in the day!"
+title = "How Many Hours Do You Need ?!"
 
 +++
 ## Verse
