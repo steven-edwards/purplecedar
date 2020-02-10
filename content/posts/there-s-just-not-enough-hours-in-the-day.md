@@ -1,7 +1,7 @@
 +++
 content_img_path = ""
 date = 2020-02-09T09:00:00Z
-excerpt = ""
+excerpt = "are you achieving your capacity in all that you do or are you finding that there are not enough hours in each day that God gives you?"
 layout = "post"
 subtitle = ""
 thumb_img_path = "/images/there-are-not-enough-hours-in-the-day-quote-1.jpg"
