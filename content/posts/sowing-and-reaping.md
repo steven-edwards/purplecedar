@@ -2,7 +2,7 @@
 content_img_path = ""
 date = 2020-02-07T09:00:00Z
 draft = true
-excerpt = ""
+excerpt = "“Remember this: Whoever sows sparingly will also reap sparingly...”"
 layout = "post"
 subtitle = ""
 thumb_img_path = ""
