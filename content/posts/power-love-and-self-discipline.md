@@ -1,11 +1,10 @@
 +++
-content_img_path = ""
+content_img_path = "/images/11EE6424-CEFD-4A74-BBC9-1C3F2F8C4126.jpeg"
 date = 2020-02-04T07:00:00Z
-draft = true
 excerpt = "What good is it to own all the riches of this world but not have love and empathy for your neighbour."
 layout = "post"
 subtitle = ""
-thumb_img_path = ""
+thumb_img_path = "/images/11EE6424-CEFD-4A74-BBC9-1C3F2F8C4126.jpeg"
 title = "Power, Love and Self-Discipline "
 
 +++
