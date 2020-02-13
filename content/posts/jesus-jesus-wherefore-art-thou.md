@@ -1,12 +1,12 @@
 +++
-content_img_path = ""
+content_img_path = "/images/light of truth.jpg"
 date = 2020-02-02T08:00:00Z
 draft = true
 excerpt = "Believe in great things and you shall achieve them; believe in failure and you shall accomplish failure."
 layout = "post"
 subtitle = ""
-thumb_img_path = ""
-title = "Jesus Jesus wherefore art thou?"
+thumb_img_path = "/images/light of truth.jpg"
+title = "Jesus Jesus Wherefore Art Thou?"
 
 +++
 “Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go.””
