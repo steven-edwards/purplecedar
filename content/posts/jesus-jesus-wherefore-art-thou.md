@@ -1,7 +1,6 @@
 +++
 content_img_path = "/images/light of truth.jpg"
 date = 2020-02-02T08:00:00Z
-draft = true
 excerpt = "Believe in great things and you shall achieve them; believe in failure and you shall accomplish failure."
 layout = "post"
 subtitle = ""
